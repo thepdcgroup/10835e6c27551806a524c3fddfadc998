@@ -1,0 +1,1 @@
+# ritcheyandai_types_of_education_i1
