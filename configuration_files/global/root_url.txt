@@ -1,5 +1,5 @@
 Description: This indicates whether the website is hosted at the root of the domain (e.g., "/"), or in a subfolder (e.g., "/directory"). The default value is "/".
 Content:
 <value>
-/
+/10835e6c27551806a524c3fddfadc998
 </value>
