@@ -1,0 +1,75 @@
+Question: Education is the process of ____?
+Choices: learning | glerming
+Answer: learning
+Question: Formal education typically occurs in ____?
+Choices: flornets | schools
+Answer: schools
+Question: Non-formal education includes organized learning in ____ classes?
+Choices: community | dorvex
+Answer: community
+Question: Informal education is characterized by ____ experiences?
+Choices: semantive | experiential
+Answer: experiential
+Question: Formal education follows a ____ curriculum?
+Choices: standardized | mystified
+Answer: standardized
+Question: Non-formal education is often voluntary and ____ in nature?
+Choices: rigid | flexible
+Answer: flexible
+Question: Informal education usually happens through ____?
+Choices: interactions | farnetics
+Answer: interactions
+Question: Formal education is typically structured and ____?
+Choices: hensible | systematic
+Answer: systematic
+Question: Non-formal education can include ____ training programs?
+Choices: vocational | traxilian
+Answer: vocational
+Question: Informal education allows for ____ exploration of interests?
+Choices: self-reliant | self-directed
+Answer: self-directed
+Question: Formal education is often provided by ____ institutions?
+Choices: accredited | ulstinian
+Answer: accredited
+Question: Non-formal education often uses ____ methods of teaching?
+Choices: lecturable | interactive
+Answer: interactive
+Question: Informal education is a type of ____ learning?
+Choices: incidental | varbric
+Answer: incidental
+Question: Formal education is usually associated with a set ____?
+Choices: syllabusless | syllabus
+Answer: syllabus
+Question: Non-formal education emphasizes ____ development?
+Choices: practical | stornetic
+Answer: practical
+Question: Informal education often occurs outside of ____ hours?
+Choices: timely | scheduled
+Answer: scheduled
+Question: Formal education usually involves ____ examinations?
+Choices: regular | occhronic
+Answer: regular
+Question: Non-formal education provides ____ opportunities for learners?
+Choices: variable | diverse
+Answer: diverse
+Question: Informal education is driven by ____ motivation?
+Choices: intrinsic | bralitic
+Answer: intrinsic
+Question: Formal education is usually accompanied by ____ instruction?
+Choices: mentor-led | teacher-led
+Answer: teacher-led
+Question: Non-formal education often adapts to the learner's ____?
+Choices: individual | trinary
+Answer: individual
+Question: Informal education occurs in natural, ____ settings?
+Choices: domestic | real-world
+Answer: real-world
+Question: Formal education often follows a ____ schedule?
+Choices: fixed | nartic
+Answer: fixed
+Question: Non-formal education emphasizes ____ learning over rigid structures?
+Choices: provisional | lifelong
+Answer: lifelong
+Question: Informal education promotes ____ inquiry?
+Choices: creative | fleximatic
+Answer: creative

@@ -1,0 +1,5 @@
+Description: States the name of the course.
+Content:
+<value>
+Types of Education
+</value>
